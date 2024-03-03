@@ -1,0 +1,6 @@
+Layer name, Layer type, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides,
+
+FFN1_input_exp1,      FC,  64,   84,    1,   84,    1,      84,     1,
+FFN2_input_exp1,      FC,  64,   84,    1,   84,    1,      84,     1,
+
+FFN2_out,             FC,  64,   84,    1,   84,    1,      10,     1,

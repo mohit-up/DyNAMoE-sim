@@ -1,0 +1,19 @@
+Layer name, Layer type, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides,
+
+FFN1_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+FFN2_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+
+FFN1_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+FFN2_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+
+FFN1_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+FFN2_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+
+FFN1_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+FFN2_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+
+FFN1_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+FFN2_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+
+FFN1_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
+FFN2_input_exp1,      FC,  16,  384,    1,  384,    1,      384,     1,
